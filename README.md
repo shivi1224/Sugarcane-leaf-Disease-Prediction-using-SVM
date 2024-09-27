@@ -2,15 +2,15 @@
 
 The model is capable of performing Image Classification for: 
 
-Healthy 
+1. Healthy 
 
-Mosaic
+2. Mosaic
 
-Red Rot
+3. Red Rot
 
-Rust
+4. Rust
 
-Yellow
+5. Yellow
 
 
 Dataset:
