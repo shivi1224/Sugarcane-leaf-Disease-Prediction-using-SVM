@@ -3,12 +3,18 @@
 The model is capable of performing Image Classification for: 
 
 Healthy 
+
 Mosaic
+
 Red Rot
+
 Rust
+
 Yellow
 
+
 Dataset:
+
 Healthy leaves: 401 Images
 
 Mosaic leaves: 462 Images
