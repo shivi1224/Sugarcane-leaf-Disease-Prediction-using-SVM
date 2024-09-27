@@ -1,6 +1,6 @@
 # Sugarcane-leaf-Disease-Prediction-using-SVM
 
-The model is capable of performing Image Classification for:
+The model is capable of performing Image Classification for: 
 
 Healthy 
 Mosaic
