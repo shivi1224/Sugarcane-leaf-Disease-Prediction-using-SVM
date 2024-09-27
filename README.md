@@ -1,5 +1,7 @@
 # Sugarcane-leaf-Disease-Prediction-using-SVM
 
+Download Dataset form : https://drive.google.com/drive/folders/1xASis05vsw_GPcuX3utPmruYJGH65pXt?usp=drive_link
+
 The model is capable of performing Image Classification for: 
 
 1. Healthy 
